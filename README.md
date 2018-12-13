@@ -3,8 +3,8 @@
 FTP Client for Switch
 
 Code resused from:
-https://github.com/mtheall/ftpd
-https://github.com/mkulke/ftplibpp
+- https://github.com/mtheall/ftpd
+- https://github.com/mkulke/ftplibpp
 
 ## Features
 
@@ -36,3 +36,9 @@ Build `nro`:
 - LIST
 - NLST
 - GET
+
+## TODO
+
+- Remove mtheall/ftpd code
+- Resolve/debug workarounds for mkulke/ftplibpp issues
+- Add mkulke/ftplibpp or a fork of as a submodule
